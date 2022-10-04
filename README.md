@@ -20,7 +20,7 @@ Please contact us via the support server if you would like to request complete d
 
 # Security
 
-We take steps to ensure data provided from Titanium Security is protected from misuse, loss, alteration, or unauthorized access. However, no Internet-based system can be declared fully secure and error free.
+We take steps to ensure data provided from Bleed is protected from misuse, loss, alteration, or unauthorized access. However, no Internet-based system can be declared fully secure and error free.
 
 
 # How are we using your data
